@@ -12,7 +12,9 @@
 - 💼 Desenvolvedor na **BASIS Tecnologia**
 - :blue_heart: Apaixanado por PHP, Vue.js, Docker, Kubernet, Software Livre, entre outras.
 
-
+<a href="https://github.com/vinnyfs89">
+    <img width="50%" align="right" width="50%" alt="vinnyfs89 github stats" src="https://github-readme-stats.vercel.app/api?username=paulophmp&show_icons=false&hide_border=false&theme=dracula"/>
+</a>
 
 **Languages:**  
 
@@ -32,9 +34,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg"></code>
 
-<a href="https://github.com/vinnyfs89">
-    <img width="50%" align="right" width="50%" alt="vinnyfs89 github stats" src="https://github-readme-stats.vercel.app/api?username=paulophmp&show_icons=false&hide_border=false&theme=dracula"/>
-</a>
 
 ---
 

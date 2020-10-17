@@ -12,8 +12,8 @@
 - 💼 Desenvolvedor na **BASIS Tecnologia**
 - :blue_heart: Apaixanado por PHP, Vue.js, Docker, Kubernet, Software Livre, entre outras.
 
-<a href="https://github.com/vinnyfs89">
-    <img width="50%" align="right" width="50%" alt="vinnyfs89 github stats" src="https://github-readme-stats.vercel.app/api?username=paulophmp&show_icons=false&hide_border=false&theme=dracula"/>
+<a href="https://github.com/paulophmp">
+    <img width="50%" align="right" width="50%" alt="paulophmp github stats" src="https://github-readme-stats.vercel.app/api?username=paulophmp&show_icons=false&hide_border=false&theme=dracula"/>
 </a>
 
 

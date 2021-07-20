@@ -9,7 +9,7 @@
 
 **Personal Infos:**
 
-- 💼 Desenvolvedor na **BASIS Tecnologia**
+- 💼 Desenvolvedor na **GRAN CURSOS ONLINE**
 - :blue_heart: Apaixanado por PHP, Vue.js, Docker, Kubernet, Software Livre, entre outras.
 
 <a href="https://github.com/paulophmp">

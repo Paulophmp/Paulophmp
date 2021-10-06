@@ -9,7 +9,7 @@
 
 **Personal Infos:**
 
-- 💼 Desenvolvedor na **GRAN CURSOS ONLINE**
+- 💼 Desenvolvedor na [**GRAN CURSOS ONLINE**](https://www.grancursosonline.com.br/)  
 - :blue_heart: Apaixanado por PHP, Vue.js, Docker, Kubernet, Software Livre, entre outras.
 
 <a href="https://github.com/paulophmp">
